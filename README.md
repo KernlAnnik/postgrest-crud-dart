@@ -1,4 +1,13 @@
+```
+
+This project has moved.
+
+```
+https://github.com/melkerton/postgrest-crud-dart
+
+
 ## Postgrest Crud
+
 
 A [Postgrest](https://postgrest.org) client that provides create, recall, update, and delete operations with support for batch operations via createBatch, updateBatch, and deleteBatch.
 
